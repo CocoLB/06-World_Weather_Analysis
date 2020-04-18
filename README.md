@@ -26,6 +26,7 @@ We've been tasked by PlanMyTrip, a travel technology company, to collect and pre
   <img src="Weather_Data/temperature heatmap.png" width="200"> <img src="Weather_Data/humidity heatmap.png" width="200"> <img src="Weather_Data/cloudiness heatmap.png" width="200"> <img src="Weather_Data/cloudiness heatmap.png" width="200">
 
 - After we filtered our lict of cities by the customer's preferred min and max temperatures, we found a hotel nearby each location using Goodle Maps/Places API and Search Nearby fetaures, and created a heat map displaying info about the city, current temperature and hotel name.
+
   <img src="Weather_Data/hotel heat map.png" width="350">
 
 ## Challenge Overview
